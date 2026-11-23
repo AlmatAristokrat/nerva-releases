@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "windows": "https://github.com/AlmatAristokrat/nerva-releases/releases/download/desktop-v0.1.0/NERVA-0.1.0-setup.exe",
+  "macArm": "https://github.com/AlmatAristokrat/nerva-releases/releases/download/desktop-v0.1.0/NERVA-0.1.0-arm64.dmg",
+  "macIntel": "https://github.com/AlmatAristokrat/nerva-releases/releases/download/desktop-v0.1.0/NERVA-0.1.0-x64.dmg"
+}
